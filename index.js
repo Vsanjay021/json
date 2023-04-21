@@ -5,4 +5,6 @@ const middlewares=jsonServer.defaults();
 const port=8080;
 server.use(middlewares);
 server.use(router);
-server.listen(port);
+server.listen(port,()=>{
+    console.log("running")
+});
