@@ -5,14 +5,14 @@
       "breed": "Cherry",
       "age": 2,
       "place": "Visakhapatnam",
-      "gender": "Male"
+      "gender": "male"
     },
     {
       "id": 2,
       "breed": "Tommy",
       "age": 3,
       "place": "Banglore",
-      "gender": "Female"
+      "gender": "female"
     }
   ]
 }
