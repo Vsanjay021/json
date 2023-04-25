@@ -1,9 +1,18 @@
 {
-    "dogs":[{
-      "id":1,
-      "breed":"german shephard",
-      "age":"2",
-      "gender":"male",
-      "place":"bangalore"
-    }]
+  "dogs": [
+    {
+      "id": 1,
+      "breed": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "breed": "Tommy",
+      "age": 3,
+      "place": "Banglore",
+      "gender": "Female"
+    }
+  ]
 }
